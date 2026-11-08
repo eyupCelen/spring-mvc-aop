@@ -12,7 +12,7 @@ An entity represents a row. A repository fetches it, a service coordinates the w
 
 You need Git, a JDK 21 or newer, and MySQL. Maven is included as the wrapper.
 
-1. Clone this project from its repository page. On GitHub, choose **Code**, copy the HTTPS URL, then run:
+1. Clone this project:
 
    ```sh
    git clone https://github.com/eyupCelen/spring-mvc-aop
