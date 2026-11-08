@@ -1,0 +1,11 @@
+/bin/
+/target/
+/logs/
+*.log
+application-local.properties
+**/application-local.properties
+.idea/
+*.iml
+.classpath
+.project
+.settings/
